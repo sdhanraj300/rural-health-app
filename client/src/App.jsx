@@ -10,7 +10,7 @@ import Login from "./pages/Login";
 
 const App = () => {
   return (
-    <div className="h-full w-full bg-blue-200 text-red-700 ">
+    <div className="h-full w-full bg-gradient-to-r from-blue-900 via-blue-800 to-green-800 text-white">
       <Router>
         <Header />
         <Routes>
